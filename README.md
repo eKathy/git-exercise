@@ -1,2 +1,2 @@
 # git-exercise
-Practice with Altcademy
+Hello World.
